@@ -1,6 +1,6 @@
 # CLI First Strategy
 
-This repo houses materials and examples from my OpenJS World 2020 talk, **The Benefits of a "CLI First" Strategy**.
+This repo houses materials and examples from my OpenJS World 2020 talk, **The Benefits of a "CLI First" Strategy** on June 24th, 2020 (12:10-12:40 CDT).
 
 I'll provide a link to the video here when it becomes available.
 
