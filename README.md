@@ -2,7 +2,7 @@
 
 This repo houses materials and examples from my OpenJS World 2020 talk, **The Benefits of a "CLI First" Strategy** on June 24th, 2020 (12:10-12:40 CDT).
 
-The audio cut in/out during the live stream of this presentation. If the [OpenJS World 2020 recording](https://youtu.be/dw7ABwvFtdM)doesn't work, the original HD recording can be found at [https://youtu.be/4J2AHecINM0](https://youtu.be/4J2AHecINM0).
+The audio cut in/out during the live stream of this presentation. If the [OpenJS World 2020 recording](https://youtu.be/dw7ABwvFtdM) doesn't work for you, the original HD recording can be found at [https://youtu.be/4J2AHecINM0](https://youtu.be/4J2AHecINM0).
 
 This strategy is one I've been iterating on for quite awhile now, with pretty big plans for making the process better. If you are interested in updates, seeing future videos, and/or the evolution of this strategy, follow this repo and follow me on Twitter ([@goldglovecb](https://twitter.com/goldglovecb)) where I'll make announcements.
 
