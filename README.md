@@ -12,7 +12,7 @@ The tools used in the making of this were:
 
 1. The [author/shell](https://github.com/author/shell) framework for creating CLI tools.<br/>
     ![Browser Version](./images/shell-browser.png)<br/><br/>
-1. The [Chrome Devtools CLI Extension](https://chrome.google.com/webstore/detail/cli/okpglddgmnblhbdpdcmodmacgcibgfkf)
+1. The [Chrome Devtools CLI Extension](https://chrome.google.com/webstore/detail/cli/okpglddgmnblhbdpdcmodmacgcibgfkf)<br/>
     ![Devtools Extension](https://lh3.googleusercontent.com/WKZpJavmX4RRPyaVBFe6Vn88ZXJbjy9FCP_Mwyxo1JrWY78a9_Rh9c-sy4TawzIKy8xUmnXoxes=w640-h400-e365)
 1. The [@butlerlogic/common-api](https://github.com/butlerlogic/common-api) library. High level overview available in [this Quora article](https://www.quora.com/q/knwgdmodjdvomgbj/Introducing-Common-API-for-Node-js)
     ![Common-API](https://qph.fs.quoracdn.net/main-qimg-f993f1bf76edc43fc5844d812f2f0c4b)
@@ -27,7 +27,8 @@ These are the efforts/ventures that keep me working on this stuff:
 
 <table cellpadding="10" cellspacing="0" border="0">
   <tr>
-    <td><a href="https://metadoc.io"><img src="https://github.com/coreybutler/staticassets/raw/master/sponsors/metadoclogobig.png" width="200px"/></a></td>
-    <td><a href="https://butlerlogic.com"><img src="https://github.com/coreybutler/staticassets/raw/master/sponsors/butlerlogic_logo.png" width="200px"/></a></td>
+     <td><a href="https://metadoc.io"><img src="https://github.com/coreybutler/staticassets/raw/master/sponsors/metadoclogobig.png" width="200px"/></a></td>
+     <td><a href="https://enabledb.com"><img src="https://github.com/coreybutler/staticassets/raw/master/images/logos/logo_enabledb_w_text.png" width="200px"/></a></td>
+     <td><a href="https://butlerlogic.com"><img src="https://github.com/coreybutler/staticassets/raw/master/sponsors/butlerlogic_logo.png" width="200px"/></a></td>
   </tr>
 </table>
