@@ -17,7 +17,7 @@ The tools used in the making of this were:
 1. The [@butlerlogic/common-api](https://github.com/butlerlogic/common-api) library. High level overview available in [this Quora article](https://www.quora.com/q/knwgdmodjdvomgbj/Introducing-Common-API-for-Node-js)
     ![Common-API](https://qph.fs.quoracdn.net/main-qimg-f993f1bf76edc43fc5844d812f2f0c4b)
 1. [Fenix Web Server 3.0.0](https://preview.fenixwebserver.com), a desktop web server for serving the frontend.
-    ![Fenix Web Server](https://docs.fenixwebserver.com/assets/fenix-home.png)
+    ![Fenix Web Server](https://repository-images.githubusercontent.com/17832279/f65c1c80-8eb4-11e9-8b71-ea7f5b34828b)
 
 I use Fenix to host static content and the common-api lib to rapidly prototype API's. These two tools make it easy to experiment with CLI's within a pseudo "full stack" system.
 
